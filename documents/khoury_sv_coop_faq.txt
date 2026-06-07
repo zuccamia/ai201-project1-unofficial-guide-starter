@@ -1,0 +1,88 @@
+source_url: [private site — fill in URL or note "internal/access-restricted"]
+retrieved_at: 2026-06-06
+title: Co-op Information — Khoury College (Silicon Valley Campus)
+source_type: official_university
+capture_method: manual
+---
+
+# Co-op Information — Khoury College (Silicon Valley Campus)
+
+## Co-op Durations
+
+Students from Khoury College of Computer Sciences may go on 4-, 6-, or 8-month co-ops, provided they meet all eligibility requirements below. The number of working days permitted depends on the co-op length.
+
+Minimum working days:
+- 4 months: 55 business days, falling within either the Fall, Spring, or Summer term
+- 6 months: 55 business days during Fall/Spring and 25 business days in Summer 1/2
+- 8 months: 55 business days during Fall/Spring and full Summer
+
+Term combinations:
+- 4 months: Fall semester only, Spring semester only, or full Summer only
+- 6 months: Spring semester & Summer A term, or Summer B term & Fall semester
+- 8 months: Spring semester and full Summer, or full Summer and Fall semester
+
+Students are not permitted to go out on back-to-back co-ops between the Fall and Spring semesters.
+
+## Eligibility Requirements to Go on Co-op
+
+The following must be met to be eligible to go on co-op:
+- Have completed at least one full academic year (16 credits) in your degree program
+- Be enrolled as a full-time student the semester before you intend to go on an internship
+- Be in good academic standing (minimum 3.0 GPA)
+- Have completed the career preparation modules on Canvas (including signing the Professional Standards Agreement form)
+- To gain access to the career preparation modules, you must complete the Khoury orientation within Canvas
+- Have at least one course to return to after completing your internship (i.e., you cannot intern in your final semester before graduating)
+- Students on F-1 status must have completed at least one academic year (two consecutive semesters) of on-ground, full-time enrollment with an Active SEVIS record
+
+## NUworks Access
+
+The following must be met to be eligible for release to NUworks access. Students placed in a co-op — whether through NUworks or outside it — are no longer eligible to be released to search for co-ops in NUworks.
+- Be on track to complete at least 16 Master's-level credits by the end of the semester (excluding the Align bridge classes: CS [CS5001, CS5002, CS5008]; DS [CS5001, CS5002, DS5010, DS5020])
+- Have completed at least two academic semesters as a full-time student (minimum 8 credits per semester for graduate students)
+- Have at least a 3.2 GPA
+- Have completed the career preparation modules on Canvas (including signing the Professional Standards Agreement form)
+
+## Co-op Acceptance Requirements
+
+Complete the following once you have accepted a co-op. Additional information on policy, procedures, and accepted co-op length is on the Khoury Resource Center — Everything Co-op page. All co-op placements must be approved on or before the deadline to drop courses.
+
+### For students going out on co-op for the first time:
+- In the first month of your program, you will be enrolled in a Career Prep Course. Complete the career preparation modules through the Professional Standards Agreement and form. Select Manny Cifuentes-Machado as your Co-op Advisor for this form.
+- Within your first semester at the Silicon Valley Campus, complete the Interest in Co-op form.
+- The term before you are eligible for your first co-op search, complete the 30–45 minute Recruitment Term Planning Appointment with your assigned Co-op advisor.
+- Complete the Co-op Secured Workshop the term before you go out on co-op. Check the Luma page for the next session, or email your Co-op Advisor to schedule.
+
+### For all students going out on co-op (continuing and first-timers):
+- Fill out the Co-op Processing Form.
+- Finish the career preparation modules in Canvas by completing the Co-op Agreement form. Select Manny Cifuentes-Machado as your Co-op Advisor for both forms.
+- If this is not your first co-op, you still need to refill out this form.
+- Report your placement in NUworks via the experiential learning tab, clicking "add new experience."
+- International/F-1 students: submit your CPT authorization request. The form is on the OGS website at the bottom of the page. Put CareerDevSV@northeastern.edu as the approver.
+- OGS can take up to 10 business days (2 weeks) to review a CPT authorization request, plus a couple more days for the Career Development team's initial approval. Submit as early as possible to reduce delays.
+
+### Additionally, for students with a global co-op outside the U.S.:
+- Complete the GEO Requirements/Application (https://geo.northeastern.edu/programs/global-co-op/) and the Global Safety form (https://globalsafety.northeastern.edu/travel-compliance/) if it applies to you.
+- For global co-ops, CPT is not required, since students will not be working on U.S. soil. Students may return to the U.S. while still engaging in the global co-op but cannot work or perform any job duties. See the OGS website's "Working Outside the U.S." information for more.
+
+## Frequently Asked Questions
+
+Q: Am I able to push back my graduation date to accommodate a co-op along with my coursework?
+A: Students will need to check in with their Academic Advisor to see if they will be eligible to push back their graduation date.
+
+Q: Am I allowed to request a program extension on my I-20 in order to accommodate an internship/co-op?
+A: Generally, no. However, there may be other academic arrangements that would allow you to complete the internship/co-op and still complete your program by your I-20 end date, so we recommend reaching out to your Academic Advisor to explore options available to you.
+
+Q: Am I allowed to take consultant or independent contractor positions?
+A: No, Northeastern does not approve co-op placements for consultant or independent contractor positions. All co-ops must be paid through a W-2 and not a 1099.
+
+Q: When should I start applying for co-ops?
+A: This will be based on the company. Many larger companies post positions a year before the start date while other companies begin searching a few months ahead. Please feel free to connect with the Career Development team.
+
+Q: Do I need to take coursework while on co-op?
+A: Students are not required to take coursework if their co-op is 32 hours or more per week and are less than 50% remote. Please reach out to the Career Development team for additional details or to confirm if you will need to take coursework.
+
+Q: If I was previously released to search for co-ops in NUworks for a past term but did not secure a co-op, am I still eligible to be released to search for co-ops in NUworks for an additional term?
+A: If you were previously released to search for co-ops in NUworks and did not find a co-op, either within or outside of NUworks, then you can be released to apply for co-ops during additional terms. Students will need to request this by emailing CareerDevSV@northeastern.edu.
+
+Q: Do I have to apply to co-ops through NUworks? Where should I apply to co-ops outside of NUworks?
+A: Students may apply for co-ops outside of NUworks. For examples of additional sources for co-op opportunities, please visit the Career Development Resources page.

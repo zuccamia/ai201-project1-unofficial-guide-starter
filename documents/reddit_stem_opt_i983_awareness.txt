@@ -1,0 +1,96 @@
+source_url: https://www.reddit.com/r/f1visa/comments/1tjxcsy/for_awareness_on_stem_opt_extension/
+retrieved_at: 2026-06-06
+title: For Awareness on STEM OPT extension! (state employers dropping Form I-983)
+source_type: reddit
+source_tier: peer
+capture_method: manual_browser
+note: Peer-experience thread, NOT an advisor AMA. The OP (u/Local_Salamander7281) is an F-1 student sharing a cautionary story; replies are other students plus one subreddit moderator (u/Codetornado, flaired "Internet Advice - Not legal Counsel"). Posted May 21, 2026. Claims here are anecdotal and partly contested within the thread — treat as lived experience and crowd report, not authoritative policy. [deleted]/[removed] comments omitted. Roles: OP = the poster; user = other commenters; mod = moderator.
+---
+
+# For Awareness on STEM OPT extension! (state employers dropping Form I-983)
+
+[OP post | OP] An F-1 student shares a warning for upcoming graduates job-hunting in the US. After applying to thousands of jobs, ~30 online interviews, and 6 in-person interviews across Florida, the OP was hired for a public-health role at the Florida Department of Health — completed onboarding, background checks, leased a place near the office, and started working. About a month in, asking the supervisor about the STEM OPT extension and Form I-983, the OP learned the employer no longer signs Form I-983 for STEM OPT. The OP's DSO had previously said most employers complete it since it's a standard 5-page training form. HR later confirmed their policy changed earlier in the year and they had stopped signing the form — never communicated during hiring or onboarding. The OP now has under 30 days to find a new job and file the STEM OPT application, and has had to restart the job search under heavy stress. The core message: before accepting an offer, relocating, signing a lease, or leaving other opportunities, confirm whether the employer supports STEM OPT and signs Form I-983 — don't assume every employer does.
+
+---
+
+## Reports that Florida and Texas state government jobs stopped sponsoring
+
+[user | 35] The state departments of FL and TX stopped taking STEM OPT students this year.
+  [user] Where is this coming from?
+  [user] It was on the news a few months ago.
+    [OP] I saw that news a while ago but didn't realize it was about this.
+  [OP] Not sure — HR just said their policies changed and didn't specify what kind.
+
+[user] Florida — not surprising.
+  [OP] I wish I'd gone somewhere other than Florida.
+  [user] Florida employers often don't even know about STEM OPT, so half the issue is educating hiring managers on what you're actually eligible for. [peer opinion]
+
+[user] TX and FL stopped hiring people on STEM OPT, OPT, and H-1B — it was in the news; state jobs stopped hiring international students for those.
+  [user] Some of them still do — there were still windows where H-1Bs got in as recently as last month, so it's not a blanket "stop looking in TX and FL."
+    [user] To clarify: TX and FL completely stopped hiring H-1B/STEM OPT/OPT for STATE JOBS specifically — and the Department of Health here is a state job, so no H-1B/STEM OPT for state jobs. You can still apply to regular private companies in the state.
+    [user] In Texas public institutions, particularly higher education, H-1B applications were still happening periodically despite the news and the signed stop — but not all the time and not all public institutions. [contested peer claim]
+      [user] Since you mention the academic job market, I assume you're an ABD PhD — for PhD-level roles, sponsorship is fine. As far as I know, all UT campuses and affiliates still accept PhDs requiring sponsorship (earlier this year UT said they'd consider J-1 then H-1B). But they stopped it for master's- or bachelor's-level jobs. I contacted a PI at a UT med school about a job I'd turned down last year; HR confirmed they would not accept new master's-level applicants needing sponsorship. [peer report; distinguishes PhD vs. master's/bachelor's]
+
+[mod | 5] (u/Codetornado, moderator) Florida's government is fairly anti-immigrant — government offices stopped I-983s and are pausing H-1Bs too. Private companies can do whatever, but Florida and Texas government jobs are now blocking/banning many types of employment sponsorship.
+  [OP] I didn't know that.
+
+[OP update | OP] I reached out to all the state-government HR offices and got emails from Oklahoma and Alabama saying they stopped signing Form I-983 too — so don't waste time applying to those.
+
+[user] The state of Illinois is not an E-Verify employer and also doesn't take STEM OPT. [peer report]
+
+---
+
+## The I-983 mechanics (who can sign, what's needed)
+
+[user] If your immediate boss has signatory authority, technically you don't need to involve HR at all — you basically just need the EIN (on your W-2) and the E-Verify number. But if your boss won't stick their neck out and HR won't help, you're stuck. At least Florida universities have no issues with STEM OPT right now. [peer opinion]
+  [OP] My supervisor doesn't want to sign, and I've heard some universities removed E-Verification too — I've called some already.
+
+[user] It's just a form someone with signatory authority signs; they don't even upload anything — you do the rest. Why can't you talk them into it?
+  [OP] I told them everything and sent my DSO's instructions. My supervisor wanted to help but was told by higher-ups to just say no.
+    [user] All it takes is a signature, with no consequences for them, and it's easier to retain an existing employee — ridiculous. [peer opinion]
+      [OP] I don't understand it either. My employer is already planning to hire more people and will probably hire my replacement, since they know I won't be there long.
+
+[OP] They even got an email from their headquarters confirming I have a work permit until 2028, and still clearly said no. I don't understand the policy.
+
+---
+
+## "Should you have asked upfront?" — the debate in the thread
+
+[user | 16] Most of us know to have this conversation before hiring — employers usually ask on the initial call whether you need sponsorship, and only proceed if it's aligned. [peer opinion]
+  [user | 16] If a company allows OPT, I wouldn't think to also ask whether they allow STEM OPT, so I don't blame the OP for not getting that specific clarification.
+    [OP] That's the problem — they never asked me about this.
+  [user] Do you know if they were E-Verified?
+    [OP] Yes, they're E-Verified and meet all USCIS requirements. They used to sign but stopped.
+  [user] Since it's a state Department of Health, I'd think they need verification. [peer speculation]
+
+[user] Sorry to say, but it was your duty to ask and clear this.
+  [OP] True — I should have clarified beforehand, which is why I wrote this as an awareness post so others don't face this.
+    [user] Ask and clear what — "will you also allow STEM OPT if you hire me on OPT, otherwise I can only work one year"? That's ridiculous. But seeing the OP's experience, it's one more thing to add to the clarification list. [peer opinion]
+      [user] It's a basic thing — confirm during the process that they're okay filling out the I-983.
+
+[user] You didn't directly ask before starting? That was a gamble.
+  [OP] I'd seen many international students at the same company, and it was E-Verify, so I didn't expect a no — but I should have clarified.
+
+[user] A lot of OPT/STEM OPT students avoid mentioning sponsorship while being hired because they fear losing the offer; then it surfaces when HR reviews details in the first few weeks. That's why clarifying at onboarding matters. [peer opinion]
+
+---
+
+## Practical takeaways surfaced in the thread (peer advice)
+
+[OP] First confirm STEM OPT eligibility with your university DSO, then ask HR before doing an in-person interview, since interviews cost a lot of effort, money, and time. Also consider calling/emailing HR before even applying.
+  [user] You should know eligibility before picking a major — USCIS publishes a list of STEM CIP codes you can check against the code next to your major on your I-20.
+
+[user] The OPT extension timeline is getting worse each year, so network now while you're still on F-1 status — that matters more than the actual job posting. [peer opinion]
+
+---
+
+## On STEM OPT and "immigrant intent"
+
+[user] How does using STEM OPT after F-1 work? F-1 is a non-immigrant visa with intent to return home after studies.
+  [OP] STEM OPT is part of the F-1 framework and is not an immigrant visa. Eligibility is based on completing a qualifying STEM degree and meeting program requirements — a benefit for students who've invested substantial time, effort, and resources in their US education.
+
+---
+
+## Supportive replies (no substantive content)
+
+Many comments were encouragement — variations of "hope it works out," "all the best," "so sorry this happened," and several students saying they're in the same situation ("I'm losing hope"). These carry no policy content.

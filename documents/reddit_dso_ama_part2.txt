@@ -1,0 +1,286 @@
+source_url: https://www.reddit.com/r/f1visa/comments/1nyyy3r/im_back_to_answer_more_questions_ask_me_anything/
+retrieved_at: 2026-06-06
+title: I'm back to answer more questions! Ask me anything as an International Student Advisor/DSO. (Part 2)
+source_type: reddit
+capture_method: manual_browser
+note: Follow-up AMA (posted Oct 5, 2025) by the same advisor u/LogNo9783 (OP), one week after the first thread. Companion to reddit_dso_ama.txt. [deleted]/[removed] comments and unrecoverable deleted-parent branches omitted. Roles: DSO = u/LogNo9783; user = everyone else. Scores shown where present. Many later questions received no DSO reply and are tagged accordingly.
+---
+
+# I'm back to answer more questions! (DSO AMA, part 2)
+
+[OP post | DSO] I work for a large public university advising ~800 students, including OPT/STEM OPT. Last week I answered a lot about the H-1B $100k fee, whether it affects change of status (F-1 → H-1B), and travel. Summary of what the OP states:
+
+The $100k H-1B fee — what to know (per the DSO): If you have current visa status and are changing status to H-1B, currently it does not affect change of status — the DSO has personally filed 5 cap-exempt COS applications after the 21st and paid regular fees. The additional guidance clarifies it's only for new H-1B petitions for those outside the US going through consular processing. There are no cap-exempt exemptions currently (non-profit/university H-1Bs), but change-of-status applicants aren't affected anyway. Fees require a formal process to change/add, so there's no way to even pay this fee currently; it would attach to the I-129 the employer files online at submission. It is not a visa-stamp fee. For those who do COS in the US and worry about the later visa stamp: as it stands, the fee won't apply if you already have an approval notice — you can get your visa stamp with the approval notice.
+
+Litigation: On October 3, 2025, a coalition of labor unions, health-care providers, schools, and religious organizations filed suit against Proclamation 10973 — Global Nurse Force et al. v. Trump et al., Case No. 3:25-cv-08454, U.S. District Court for the Northern District of California. Other legal challenges are expected.
+
+Travel on OPT/STEM OPT (per the DSO): make sure the SEVP portal is updated or your DSO has your employment info; passport and visa stamp valid; bring offer letter, EAD card, and paystubs; get a travel signature on your I-20; if volunteering, bring the volunteer letter. If everything's in order, you can travel.
+
+---
+
+## The $100k fee, change of status, and the litigation
+
+[user] Do you know anyone who has filed a cap-exempt H-1B change-of-status (COS) petition after September 21?
+[DSO | 20] I've filed about 5 so far after the 21st. All regular filing fees.
+  [user] Can you provide updates when you get decisions on these cap-exempt COS petitions? [no direct DSO reply, but see the "COS Approved" update below]
+  [user] Is filing a COS the same as a new H-1B petition?
+  [DSO | 5] It's a new H-1B petition, but the person already has some visa and is in the US, so it's different from a brand-new H-1B coming for the first time from outside the US.
+
+[user] How certain is it that it will not apply to COS?
+[DSO | 25] At the moment it does not apply. I've filed COS applications after the 21st. The fee can't even be paid right now — updating fees requires a long formal process, so even if they wanted it to apply there's no telling when. The guidance specified new applications going through consular processing. The proclamation is facing litigation, and we expect more.
+
+[DSO | 1] Update posted! COS Approved. (The DSO later confirmed approval of the cap-exempt COS petitions they had filed; most were filed with premium processing, ~15 business days, no concerns about denial.)
+
+[user] Is any cap-exempt H-1B application filed after Sept 21 approved without the $100k fee?
+[DSO | 9] I'm waiting on the ones I filed but will post an update on approvals and timing. Most were premium processing (within 15 business days). I have no concerns they'd be denied — all COS, all after the 21st, regular filing fees.
+
+[user] I'm planning to apply for Fall 2026 intake. Would the $100k apply to me in 2028 if an employer sponsors my H-1B?
+[DSO | 3] Hard to say if it'll even be written into regulations that far out — it's in litigation now. If you're COS in the US, it doesn't apply; if you're a new visa abroad, currently yes (but there's no way to pay it yet).
+
+[user] Does the COS exception also apply to J-1 scholars not subject to the 2-year home rule who plan to switch to H-1B within the US?
+[DSO] Yes — that's a COS in the US, so it wouldn't apply. If you had the 2-year requirement and had to go home and do H-1B from there, it would apply (per the proclamation; in practice this hasn't happened yet).
+
+[user] With the lawsuit filed a few days ago, what can we expect — will they block the proclamation during litigation, and how/when might SCOTUS rule? [no DSO reply]
+[user] Any updates on lawsuits challenging the H-1B fee increase?
+[DSO] At the moment, all we have is the one filed October 3rd.
+
+[user] Cap-exempt H-1B to cap-subject H-1B — should my employer pay $100k? [no DSO reply]
+[user] Got my first H-1B lottery this year (March 2025), I-129 notice dated July 1, 2025; I'm in India. If I transfer my visa after the I-797 approval, does the $100k apply? [no DSO reply]
+[user] On STEM OPT until 2027 with a private company; tried H-1B twice, didn't get it. Would my employer owe $100k, and what if I switch jobs? [no DSO reply]
+[user] On F-1, graduating next year, STEM OPT next year — does the fee apply to me? [no DSO reply]
+[user] Final-year undergrad; first H-1B petition would be 2027 (F-1 → H-1B). Will I be affected? [no DSO reply]
+[user] Conversion from F-2 to H-1B or J-1 — does the new fee apply to F-2 → H-1B? [no DSO reply]
+
+---
+
+## Site visits, RFEs, and SEVIS record fixes
+
+[user | 5] I'm seeing an increase in STEM OPT RFEs — is this new scrutiny or just more active Reddit? There's too much uncertainty even with full documentation; we're scared to sign long leases, buy cars, switch jobs.
+[DSO | 5] I don't think I've personally had RFEs yet, but they're definitely cracking down on site visits — we had an I-983 requested by HSI last week for the first time, for a site visit. On RFEs: with accurate documents that you can provide on request, there shouldn't be a problem. STEM OPT is receiving more scrutiny, unfortunately.
+  [user] Do they usually notify the student before a planned site visit? Many of us work hybrid.
+  [DSO | 2] They can, but have the option not to notify. This is my first time going through one, so it's hard to say what they're looking for. As long as your I-983 is accurate and your address/employment is correct in SEVIS, you should be okay.
+
+[user | 4] Tricky situation: picked in the H-1B lottery, had an I-797 approval, then laid off and re-employed (all before Oct 1). My previous employer failed to file a timely withdrawal before Oct 1 (sent a letter Oct 3; awaiting USCIS receipt). My OPT auto-completed as of Oct 1 and I've been on unpaid leave since. I haven't worked out of authorization. What's the chance my PDSO can correct the record from Completed to Active? Is the ombudsman route worth it? Can I hold the previous employer accountable?
+[DSO | 1] I did something similar for a student whose H-1B was filed incorrectly and whose SEVIS/OPT auto-completed — I submitted a Data Fix ticket to SEVP with a letter and they fixed it.
+  [user] To clarify, this isn't incorrect H-1B filing — it's a failure to effect a bona fide termination. My DSO will submit a data fix once I have the receipt but is confident it won't be accepted because the withdrawal was after Oct 1. [no further DSO reply]
+
+[user] I was on F-1, got H-1B approved this year, then laid off; employer submitted the withdrawal (delivered to USCIS Sept 12) and my SEVIS terminated Oct 1. My DSO wants the official USCIS withdrawal confirmation to reactivate SEVIS, which I don't have yet (lawyer says USCIS only confirmed for about half their clients). Can SEVIS accept the FedEx delivery receipt plus the employer's withdrawal letter as proof? [no DSO reply]
+
+[user] Can F-1 be reinstated after an H-1B COS petition is approved, if the employer lets the person go before approval?
+[DSO] No — you're not formally on H-1B status. [The user asked best next steps; no further DSO reply.]
+
+[user] How long are reinstatements of student status taking?
+[DSO] I haven't done one in a while, but it can take 12–18 months, unfortunately.
+
+[user] For students whose SEVIS was terminated and reinstated in April this year — are they getting OPT approved after graduation?
+[DSO] I haven't done a reinstatement this year, but I wouldn't see an issue with OPT approval if you're in good standing.
+
+[user] On initial OPT; uploaded employment to the SEVP portal and submitted my university's employment update form, but my DSO rejected it twice saying the job "is not directly related to my degree" without clear explanation. I finished a PhD in business and the job is related but not purely research. Will this affect future H-1B filings? I'm not traveling — is an undocumented OPT employment I-20 a problem?
+[DSO] Not unless you overstay after your OPT/unemployment days run out. As long as you have unemployment days, you're okay.
+
+---
+
+## STEM OPT reporting and validation
+
+[user | 13] On STEM OPT, traveling internationally next month. I updated the SEVP portal during initial OPT but not for STEM OPT, though I uploaded the card to my school's ISSS site. Is that sufficient?
+[DSO | 4] That's fine if everything is the same. Note the required 6-, 12-, 18-, and 24-month updates — make those when it's time, even if nothing has changed.
+
+[user] On STEM OPT, missed my 6-month report in the SEVP portal, still with the same employer. Safe to travel?
+[DSO | 3] You can still and must do the update — do that first.
+  [user] My DSO says they can't update; the due date was July. Any way they still can?
+  [DSO | 2] If it's been more than 30 days, the portal locks them out. But if your information hasn't changed and you keep proper documentation, you're at less risk. Politely ask if they can reach out to the SEVIS Help Desk or request a data fix to allow a late validation report. Keep proof of employment, be timely going forward. Missing a report isn't ideal, but being proactive now likely won't affect future immigration.
+
+[user] How do I update the SEVP portal if my STEM OPT 6-month check-in falls on Jan 1 (winter break)? Can I do it before then?
+[DSO | 2] You can update during winter break — it should be fine. Or just give the update to your DSO.
+
+[user] Finished STEM OPT in June, never got the H-1B lottery, relocated to the UK with my company (worked there on OPT/STEM OPT). I updated my DSO and submitted the final 24-month update to the portal. Anything else to do to preserve legal status for future US immigration (visitor, H-1B, or L-1B later)?
+[DSO] I think you did everything you were supposed to — just double-check with your DSO.
+
+[user] On STEM OPT, working remotely (different state from employer) since CPT. On the I-983 Section 5 (Employer Site Info) I listed the employer's address, not my home/physical work address. Given FDNS checks, should I change it now or at the next update (6-month is next month)? My DSO advised not changing anything during the application process. [no DSO reply]
+
+[user] Field Service Engineer; company HQ in Kentucky, I live in Pennsylvania, no office — I go to different client sites daily across 3 states. What address goes on the I-983? Also, I have the company's E-Verify number but can't find the company on the search site — how to confirm?
+[DSO] Don't they have a main/mailing address?
+  [user] HQ is in Kentucky with an address; I trained there a month, but my workplace is the client's address and I deal with different customers daily across 3 states. [no further DSO reply]
+
+[user] Apply for STEM OPT in Nov, fully remote — on the I-983 do I note remote work somewhere, and what site address (employer or personal)? [no DSO reply]
+
+[user] E-Verify: I work for subsidiary B; parent A holds the E-Verify account for all subsidiaries. On the I-765 I listed company B's name with parent A's E-Verify number. Any issue?
+[DSO] Should be fine — the mismatch isn't a concern. They check the number and that it matches the company, not the E-Verify name. As long as the number is correct, a different parent-company name doesn't matter. [User clarified there's only one E-Verify account, the parent's, used by all subsidiaries.] That's fine — that's the correct E-Verify number.
+
+---
+
+## OPT timeline, processing, and the government shutdown
+
+[user] Have USCIS processing times been delayed by the government shutdown? I responded to a STEM OPT RFE (premium clock running) with no update, but a friend with the same RFE who responded before the shutdown was approved within 2 hours of the premium clock starting. I have an international flight in 2 weeks.
+[DSO | 2] Hard to say — not enough time has passed to see a difference. But normally USCIS is not affected; it's almost entirely funded by application fees, not federal funding, so I wouldn't worry too much.
+  [user] Any way to request they look into my application? My receipt date was June 3, and they're processing May 23 dates.
+  [DSO | 3] I'm not sure about that. But if your regular OPT is still good, you remain in regular OPT status and can use that EAD and documentation. I typically wouldn't recommend traveling while OPT is processing IF your regular OPT/EAD is expired — you need a valid EAD card. As far as USCIS goes, they aren't really affected by the shutdown.
+  [user] I got STEM OPT approval today! [confirming the shutdown didn't block it]
+
+[user] Graduating in December; interviewing (decision ~Oct 13–15); internship start Jan 5 or 12. Plan: apply for OPT Oct 16 with a Jan 5 start if I get the offer, otherwise late October with a Feb 15 start. Does the timeline look good, and how long is Fall OPT processing?
+[DSO] Apply sooner than later regardless of when you expect a job. The start date must be within 60 days of the program end date. Processing has been ~3.5 months plus ~2 weeks for the card. You may hit the situation where the application is still processing / no EAD yet but your start date has passed. You can't work until the EAD is in hand, and you accrue automatic unemployment days once your start date passes even if still processing. You cannot change the start date once submitted.
+  [user] Can I upgrade to premium processing a month later if I see no updates? [no DSO reply]
+
+[user] Applied for OPT Oct 1 (not STEM); graduating mid-December and worried I can't work. Chances I won't have it by then? What do I tell employers?
+[DSO] OPT takes ~3.5 months plus a couple of weeks for the EAD — I don't think you'd have it by mid-December. What's your start date? That's what really matters. [User asked about upgrading to premium in November; no further DSO reply.]
+
+[user] My DSO-set start date on the I-20 has passed but I've heard nothing from USCIS about my EAD — should I worry about denial?
+[DSO] Not necessarily — a passed start date doesn't mean denial; it's just processing times (~3.5 months regardless of when you submit). A passed start date just means your OPT clock has started. Wait for the EAD and have an employment plan to stop the clock once approved.
+
+[user] Same — start date passed, no EAD authorization yet, worried about denial.
+[DSO] Same as above: processing takes ~3.5 months regardless; a passed start date means the clock started. Wait for the card and have a plan for employment to stop the clock.
+
+[user] Applied for STEM OPT in June; still says 8 months. When should I pay for premium processing? And if laid off/I quit, do I get STEM OPT unemployment days + 5 months if accepted to a school for Fall 2026? [no DSO reply]
+
+[user] Reaching the 6-month auto-extension limit on my STEM OPT application — what happens if I'm working past that and it isn't approved due to an RFE? [no DSO reply]
+[user] Does the 3-month (90-day) unemployment limit from regular OPT carry over to the STEM extension? [no DSO reply]
+[user] On Post-Completion OPT expiring in February; applying for STEM OPT at the 90-day mark. With the shutdown, can I keep working if STEM OPT is delayed past my initial OPT expiration? [no DSO reply]
+
+---
+
+## Travel and re-entry
+
+[user] On OPT, want to visit home for ~a week; OPT expires February and I'll need a STEM extension by then. Safe to travel and return? [no DSO reply]
+
+[user] Valid F-1 visa (expires Aug 2027) in an expired passport; new passport references the old passport number. Traveling home for a month — do I need to restamp, or can I travel with the visa in the expired passport alongside the new one? Safe?
+[DSO | 2] No need to restamp as long as the visa is valid — just carry both passports. You're good; I've seen students do this.
+
+[user] On STEM OPT, want to visit family in Canada for a week, but my F-1 visa expired a couple of months ago. Can I go and return without issues?
+[DSO | 2] Canada has 30-day automatic visa revalidation — even on an expired visa you can travel to Canada or Mexico for less than 30 days and re-enter. You're good. (Links to the State Department auto-revalidation page.)
+
+[user] PhD, transferred schools twice (all properly completed with new SEVIS records). Could past transfers cause re-entry issues over Christmas break?
+[DSO] I don't think so — just have all your documentation and previous I-20s.
+
+[user] Traveling 1 month abroad on STEM OPT — is the duration a problem, and can I work from there?
+[DSO] With an employer letter acknowledging your time abroad, that should be okay. One month working abroad should be fine. There may be tax implications — I'm not a tax professional; check with your employer. [User asked if the I-983 needs updating for 10–15 days of work abroad; no further DSO reply.]
+
+[user] Working abroad for a week during ~2 weeks of travel on OPT/STEM OPT — how is time outside the US treated, and what are the limits on working abroad?
+[DSO] Working outside the country is fine as far as the visa goes; there may be tax implications, so consult your employer. I'm not a tax expert.
+
+[user] On first-year OPT doing volunteer research; visa expired. Risky to go home to renew it?
+[DSO] You're fine. Bring all documentation — paystubs, offer letter, EAD card, I-20 with travel signature — and I recommend an employer letter acknowledging your time away. [User noted it's an unpaid volunteer position, so no paystubs — what to show instead? No further DSO reply.]
+
+[user] Traveling internationally ~2 weeks with one week of work, on OPT/STEM OPT — limits on working outside the country? [covered above: fine for the visa, watch taxes]
+
+[user] On OPT, working for an airline, want to travel to Canada for Christmas with all valid documents — any bad cases lately? [no DSO reply]
+
+[user] On OPT (not STEM), ends Feb 2026; F-1 visa ended Dec 2024 (haven't left the US). Thinking of flying to another state — issue, and what to bring? [no DSO reply]
+
+[user] On OPT with EAD/offer letter/I-20 but expired student visa; planning a trip to Hawaii — safe with everything current except the visa?
+[DSO | 2] That's fine — Hawaii is in the US. Domestic travel doesn't need a visa.
+
+[user] On a CPT internship, want to end it before the CPT end date and travel to India for 2 weeks before OPT — fine, or do I update the CPT I-20 with an earlier end date? [no DSO reply]
+
+[user] Safe to travel internationally for a few weeks to a month while on CPT? My employer allows it.
+[DSO] I don't see an issue — keep an employer letter acknowledging your time away.
+  [user] My DSO said I should maintain on-ground presence during CPT, so I cancelled my plans.
+  [DSO] That could be an issue if it's not during a break — CPT is technically a class, so you must maintain physical presence during the semester. How are you doing your other classes?
+  [user] I'm a PhD student — no classes, just research. Maybe travel during break makes more sense.
+  [DSO] Yes — save travel for breaks to be safe. Your DSO has the final say.
+
+[user] F-1 student, travel during Thanksgiving (non-holiday-season), not skipping classes, first semester — risks?
+[DSO] You'll be fine with proper documentation and a travel signature. [User mentioned hearing of deportations for travel during non-holiday season; no further DSO reply.]
+
+[user] On CPT, traveling home December, back in January, graduating May — will current changes affect me?
+[DSO] No, you should be good. Have all documentation and a travel signature.
+
+[user] On first-year OPT, one month past EAD start date, in an unpaid volunteer position — can I travel to India?
+[DSO] Bring documentation, offer letter, and EAD card; get a travel signature and you should be okay.
+
+[user] On F-1 (from J-1) ~3 years, from the Philippines — when re-entering, must I get the visa stamp in my home country, or can I do it in any country outside the US?
+[DSO] I usually recommend your home country — third countries can mean extra processing time.
+
+[user] Graduated undergrad Dec 2024, visa expired Dec 2024, on initial OPT (retail internship), filing an extension; I travel home often. Okay to travel back for a new F-1 stamp?
+[DSO] Should be fine — bring documentation and get a travel signature.
+
+[user] Planning to visit home for next summer vacation — okay, or should I wait?
+[DSO] School breaks are fine — keep documentation valid and get a travel signature.
+
+[user] Traveling home Dec 2025–Jan 2026; valid F-1 to June 2026, I-20 to June 2028; my DSO thinks it's fine but I want a second opinion. [no DSO reply]
+
+[user] On STEM OPT, EAD valid to June 28, 2026, currently working — okay to travel to India Nov 24–Dec 26, 2025? [no DSO reply]
+
+[user] STEM OPT ending January, working; sister's wedding late October — okay to travel?
+[DSO] Sure — bring visa and work documentation, EAD card, and get a travel signature.
+
+[user] Traveling to KSA on a Pakistani passport this December; F-1 expired Jan 2025, graduating master's (2nd degree) May 2026, I-20 valid. Anyone renew F-1 in Pakistan/KSA recently? Worried about time/refusal.
+[DSO] I don't have recent anecdotes. Have all valid documentation and a travel signature. Good that you're going during a break for buffer. Keep your DSO updated on delays and ask your department about starting classes online while waiting. Your DSO will advise if the delay runs longer than a week or two.
+
+[user] On regular OPT, holiday travel, valid stamp/I-20 signature/EAD — good to go, or be cautious at the border? [no DSO reply]
+
+[user] Thinking of traveling after graduation before OPT starts, while OPT is processing — okay?
+[DSO] I would not travel while OPT is pending. If it's past your program end date, re-entry needs proof of employment and approved OPT/EAD. Also, if OPT is denied while you're abroad, you can't re-enter in F-1 status.
+
+[user] Took part-time on-campus employment this semester; traveling for Thanksgiving — update the I-20 and bring the offer letter?
+[DSO] On-campus employment needs no work authorization, so no I-20 update. Bring all documentation and get a travel signature.
+
+[user] Forgot to report my employer to my DSO within 10 days (started on time); at day 88 got a possible-violation email, updated at day 89, got a new I-20. Traveling home next month — does this affect me?
+[DSO | 2] I'm not sure what that's about since you sent an update and got a new I-20 — double-check with your DSO, but it may just be an automatic email. [User confirmed it was just a notification and the DSO cleared them; asked about traveling with a late update and whether to renew a visa one month from expiry — no further DSO reply.]
+
+[user] Many other travel questions received no DSO reply, including: program end Dec 19 / OPT start Jan 2 with offer + EAD, traveling for 2 weeks in between; EAD start Jan 12 but job start Jan 26, traveling and returning Jan 20; STEM OPT 1.5-month family-emergency trip; last-semester F-1 holiday trip home; STEM OPT timeline showing 11 months with an expired initial-OPT EAD; co-op-to-full-time with a Jan 4 EAD start, entering before then; combined ~100 days outside the US while fully employed on STEM OPT; "is travel mandatory or advised on F-1?"; and several "is it safe to go home for Christmas?" variants (F-1 with documents in order; the long Western-Earth9633 document checklist for a 42-day India trip).
+
+---
+
+## CPT, employment, and authorization edge cases
+
+[user] Working unpaid for a for-profit company; already 3 months in, didn't know that's generally not allowed. What can I do?
+[DSO] You can't work at all without proper authorization, even volunteer work. The only no-authorization exception is genuinely humanitarian: charitable/humanitarian organization (not for-profit), no compensation of any kind (including housing/benefits), and not displacing a paid worker. Stop immediately and don't do any work without checking with your DSO. Depending on how strict your DSO is, mentioning it could put your status at risk if they report unauthorized work — so it's your call whether to disclose. [User noted they do have an EAD and the confusion is specifically about unpaid work for a for-profit; no further DSO reply.]
+
+[user] Can government-marketplace insurance (stated as not a public charge) be used by an F-1 student?
+[DSO] Hard to advise — what counts as a public charge changes administration to administration, so something not currently a public charge could be counted later. I usually advise against it just in case. For health insurance, universities have their own policies/recommendations — check with your DSO.
+
+[user] Offered equity in a startup as a "management partner," on initial OPT, role aligned with my Project Management master's. Allowed? I've heard F-1 OPT can't make business decisions or hold ownership roles. [no DSO reply]
+
+[user] Two full-time jobs on F-1 OPT — one volunteer, one paid — allowed? [no DSO reply]
+[user] On STEM OPT, first month, approval pending; another MNC wants me to start next month but won't accept my expired (initial-OPT) EAD for I-9 — what can I submit for onboarding? [no DSO reply]
+[user] On OPT, EAD valid to March 2026; my company isn't E-Verify enrolled but another of their locations is — can I use that number, or must the company enroll? (Asked twice by different users.) [no DSO reply]
+
+[user] H-1B1 question — I qualify (fewer restrictions than H-1B) but don't know how to explain it to employers on my CV/applications.
+[DSO] If your end goal is a green card, H-1B1 may not be right — fewer initial barriers but complications later. It's a non-immigrant visa (must show you don't plan to settle), valid in 1-year increments; your employer may not want the repeat I-129 fees, and it's not a direct GC path (you'd have to leave and re-enter on dual-intent H-1B if you later want a GC). H-1B is the cheaper, more straightforward route, but H-1B1 could be an option if you're not pursuing a GC. Consult a lawyer.
+
+---
+
+## Degrees, levels, RCL, and academic situations
+
+[user] If I get OPT as an LPN, will I get another for my associate's?
+[DSO | 2] You get OPT once per academic level — once per associate's, once per bachelor's, and so on. You can't go back a level. (LPN is a nursing certificate.)
+
+[user] Can I apply for a Reduced Course Load because I have a premature baby to care for? Steps?
+[DSO] You can get a Medical RCL — get a doctor's note explaining the situation and recommending reduced or no courses, and submit it to your DSO.
+
+[user] My I-20 expired (2-year completion) because I forgot and missed the ISA email while out of email access; I'm enrolled this semester and Spring 2026. Do I have a valid reason for an I-539 to approve a new I-20?
+[DSO] This is better for your ISSS team — they'd have to support it and write a letter essentially taking the blame.
+
+[user] Graduating June 2026 (quarter system); I'll finish all requirements by winter quarter and want to skip spring quarter without leaving the US or starting my OPT clock — possible?
+[DSO] You're asking whether you can be un-enrolled for your next session — I'm a little confused. Do you have no classes until June, and when does the next session start?
+  [user] I'm in fall now, have winter and spring quarters, then walk June 2026; I'll finish requirements by winter, so I'm considering skipping spring but don't want to leave the US or start the OPT clock. [no further DSO reply]
+
+[user] Son was E-3D, turned 21, changed to F-1; did an associate's while on E-3D, started a bachelor's, then changed to F-1; now 2nd year of the bachelor's. When is he eligible for CPT or STEM OPT? The college DSO said no EAD because the associate's was under E-3D. [no DSO reply]
+
+[user] On OPT from an associate's in Hospitality & Tourism — can I enroll in an associate's in Culinary after OPT, or must it be a bachelor's? [no DSO reply]
+
+---
+
+## Miscellaneous (mostly unanswered)
+
+[user] Update prompted by a layoff: green card approved while on STEM OPT — how to properly end STEM OPT and terminate SEVIS, and do I update SSA/DMV? [no DSO reply]
+[user] Sending money to my parents from my own bank/Remitly account while an international student — okay? [no DSO reply]
+[user] Can an F-1 visa be cancelled for showing an old I-20 by mistake? [no DSO reply]
+[user] Marrying a student on an F-1 visa — how difficult is the process? [no DSO reply]
+[user] PhD finishing soon, environmental science — what kind of job/companies to look at? (A peer replied that waste management has many opportunities, at least in California.) [no DSO reply]
+[user] Will these actions end if a Democrat wins the next election? [no DSO reply]
+[user] On STEM OPT, ~4 months in, EAD expires May 2026, applying for STEM OPT Feb 2026 (master's in Environmental Science, visa issued Oct 2022) — will the D/S 4-year-max change affect my status or STEM OPT eligibility, since I'd hit the October 2026 cap in my first STEM OPT year?
+[DSO | 2] I wouldn't worry too much now — we don't know much, and it'll take a while to even pass. The comment period just closed and there are many steps (and possibly more review periods) before it becomes law. It's hard to say what they'll do or what it'll affect. I wish I had a better answer.
+[user] Graduating May 2026, planning OPT for a year then grad school Aug 2027 — how would the proposed D/S termination affect me, and what about the 3-month gap between OPT ending (May 2027) and the program starting (Aug 2027)?
+[DSO] Hard to say what/who will be affected — too early, and the proposal can go through multiple revisions over a long process. You're fine on the gap because your new program starts within 5 months of your OPT ending — no need to do anything special.
+[user] What do we know about the proposed rule shortening F-1 to 4 years and barring enrollment in an already-completed level (e.g., a second master's)? Some say it won't be implemented soon, others say Spring 2026. [no DSO reply]
+[user] Will the job market improve for OPT/international students? [no DSO reply]
+[user] Thoughts on doing a master's in Spring 2026 — worth it, and will visa rejections increase under the new rules? [no DSO reply]
+[user] How can CPT/OPT students land internships/jobs in this market, and how should they answer sponsorship questions to maximize recruiter responses? [no DSO reply]
+[user] Are international students struggling to land CPT internships (STEM major)? [no DSO reply]
+[user] Recently, what are the major causes of SEVIS termination or OPT EAD denial? [no DSO reply]
+[user] Can you work at all after STEM OPT ends? [no DSO reply]
+[user] On F-1 OPT, part-time freelance "online data analyst" — title relates to my major but the actual work doesn't, and there's no formal offer letter (already onboarded). Could this be an OPT issue, and what should I do? [no DSO reply]
+[user] On Post-Completion OPT (EAD start July 10, 2025); reported employment Aug 14; employer's address later changed, so I filed a new OPT reporting request and updated SEVP — but this address change is after the 90-day unemployment window. Is that okay / any risk? [no DSO reply]
+[user] I chose pre-completion OPT instead of post-completion OPT by mistake — withdraw and reapply, or wait for USCIS? (Asked by two users.) [no DSO reply]
+[user] Changed status from STEM OPT to O-1A; DSO terminated SEVIS as completed for the status change, but SEVP was never updated — is it normal for SEVP not to reflect this? [no DSO reply]
