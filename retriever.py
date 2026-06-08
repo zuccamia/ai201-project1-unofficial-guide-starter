@@ -16,6 +16,7 @@ from pathlib import Path
 from typing import Any
 
 import chromadb
+import snowballstemmer
 from chromadb.utils import embedding_functions
 from rank_bm25 import BM25Okapi
 
@@ -26,7 +27,9 @@ COLLECTION_NAME = "unofficial_guide"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 N_RESULTS = 15
 RRF_K = 60
-POOL_SIZE = 50  # how many to pull from each ranker before fusing
+POOL_SIZE = 5  # how many to pull from each ranker before fusing — small pool
+# preserves tier hygiene by demoting chunks that only one ranker liked
+# (a Reddit-paraphrase risk planning.md flagged).
 
 
 def _embedding_function():
@@ -80,10 +83,14 @@ def embed_and_store(chunks: list[dict]) -> Any:
 
 
 _WORD = re.compile(r"[A-Za-z0-9]+")
+_STEMMER = snowballstemmer.stemmer("english")
 
 
 def _tokenize(text: str) -> list[str]:
-    return [t.lower() for t in _WORD.findall(text)]
+    # Snowball-stem so morphology variants collapse for BM25 — e.g. "reduce" and
+    # "reduced" both become "reduc". Embeddings already handle this semantically;
+    # we only stem the lexical (BM25) side.
+    return _STEMMER.stemWords([t.lower() for t in _WORD.findall(text)])
 
 
 def _matches_where(meta: dict, where: dict) -> bool:
