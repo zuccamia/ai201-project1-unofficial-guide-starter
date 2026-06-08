@@ -132,19 +132,32 @@ def retrieve(
     """Hybrid retrieval with Reciprocal Rank Fusion.
 
     Returns up to `n_results` dicts: {id, text, metadata, rrf_score,
-    dense_rank, bm25_rank}. Either rank may be None if a chunk only
-    surfaced in one of the two rankers.
+    dense_rank, bm25_rank, distance}. Either rank may be None if a chunk
+    only surfaced in one of the two rankers; `distance` is the Chroma
+    cosine distance (0 = identical, 2 = opposite) and is populated even
+    for chunks that landed via BM25 only.
     """
     collection = get_collection()
+    total = collection.count()
 
+    # Pull dense results for the entire (filtered) corpus so we have a
+    # cosine distance for every chunk that could surface via either ranker.
+    # The top POOL_SIZE are what the RRF dense_rank counts; the rest only
+    # contribute their distance for the threshold check downstream.
     dense = collection.query(
         query_texts=[query],
-        n_results=POOL_SIZE,
+        n_results=max(total, 1),
         where=where,
     )
-    dense_ids = dense["ids"][0]
-    dense_docs = dense["documents"][0]
-    dense_metas = dense["metadatas"][0]
+    dense_ids_full = dense["ids"][0]
+    dense_docs_full = dense["documents"][0]
+    dense_metas_full = dense["metadatas"][0]
+    dense_dists_full = dense["distances"][0]
+    distance_for = dict(zip(dense_ids_full, dense_dists_full))
+
+    dense_ids = dense_ids_full[:POOL_SIZE]
+    dense_docs = dense_docs_full[:POOL_SIZE]
+    dense_metas = dense_metas_full[:POOL_SIZE]
 
     full = collection.get(include=["documents", "metadatas"])
     all_ids = full["ids"]
@@ -196,6 +209,7 @@ def retrieve(
     fused = sorted(payload.values(), key=lambda x: -rrf[x["id"]])[:n_results]
     for x in fused:
         x["rrf_score"] = rrf[x["id"]]
+        x["distance"] = distance_for.get(x["id"])
     return fused
 
 
