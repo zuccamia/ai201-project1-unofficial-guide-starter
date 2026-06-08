@@ -1,0 +1,386 @@
+source_url: https://studentemployment.northeastern.edu/f-1/
+retrieved_at: 2026-06-07
+title: F-1 Student Employment — Northeastern Student Employment
+source_type: official_university
+capture_method: trafilatura
+---
+
+# F-1 Students Employment
+
+#### Contents
+
+# Getting a Job
+
+Check the On-Campus Employment page from the Office of Global Studies before you begin working.
+
+It also includes the full list of approved employers.
+
+## Start Job Search
+
+### 1. Go to Workday
+
+### 2. Click on the **Menu** in the top left corner
+
+### 3. Click on the **Jobs and Career Hub** in the menu
+
+### 4. Click on the **Student Employment** tab
+
+### 5. Click on **On Campus, Non Work-Study Jobs**
+
+### 6. Apply for available positions
+
+### 7. Review the history of job positions and hiring to get a better understanding of employment needs
+
+##### Learn more about Workday
+
+## Resume & Job Searching Guidance
+
+##### For assistance with creating a resume or other guidance with applying for jobs, contact Northeastern Employer Engagement & Career Design.
+
+# Pre-Hire Paperwork
+
+### For a full timeline of Pre-Hire Paperwork required, please refer to our handout regarding Information for F-1 Visa Students.
+
+
+### 1. Receive a job offer to work through Northeastern University
+
+### 2. Complete Form I-9 Section 1 online through Workday
+
+### 3. First time U.S. employees must apply for a Social Security Number
+
+### 4. Present Supporting Documents at the Student Employment Office
+
+### 5. Wait for processing to complete the I-9 Section 2 (Up to 3 business days)
+
+##### Do you have questions regarding the Form I-9?
+
+## Attention!
+
+##### Please note that the student must present their own documentation; parents, guardians, or any other representatives are not permitted to submit documents on a student’s behalf.
+
+# Apply for a Social Security Number (SSN)
+
+### Once you receive a job offer from an approved employer, **you must apply for an SSN**. Following are the steps to applying for an SSN if you don't have one.
+
+### 1. Submit F-1 On-Campus Employment Authorization Request
+
+### 2. Please allow 15 business days for OGS to review. The authorization letter will be sent to your Northeastern email address.
+
+### 3. Prepare supporting documents (On-Campus Employment Authorization, I-20, I-94, Passport, Visa, SSN Application)
+
+### 4. Make an appointment at your nearest Social Security Administration Office to present the supporting documents.
+
+### 5. Once you receive an application receipt, please visit the Student Employment Office at 375 Richards Hall to complete Section 2 of I-9.
+
+### 6. Once you receive the SSN, email seoi9help@northeastern.edu to update your I-9 with your SSN information.
+
+##### Learn more about Social Security Number (SSN)
+
+# Getting Paid
+
+### 1. Enroll in Direct Deposit (All on-campus student employees and all off-campus work-study student employees are required)
+
+### 2. Paychecks will be deposited into the account you designate
+
+### 3. Submit Working Timesheet (each week before Sunday at 10:00 a.m. on Workday)
+
+### 4. Your supervisor is responsible for reviewing, approving, and forwarding your timesheets by Monday at 10:00 a.m
+
+### 5. Students will be paid on a bi-weekly schedule.
+
+## For semi-monthly paid research assistants or teaching fellows
+
+**Pay Date**: 15th and the last day of the month (Please submit the information before the payroll deadline)
+
+## How to Enroll in Direct Deposit
+
+### 1. Log into the Student Hub
+
+### 2. Click on the **Resources** on the top bar
+
+### 3. Click on the **Financial Services**
+
+### 4. Click on the **Direct Deposit Form** in the list
+
+### 5. Fill in the routing number & account number (Please be sure to use the paper and electronic routing number provided by your bank)
+
+### 6. Wait up to 3 business days for your bank to process the request
+
+### 7. Paychecks will be deposited into the account you designate.
+
+##### Learn More
+
+## How to Submit Your Timesheet
+
+### 1. Go to Workday
+
+### 2. Click on the **Menu** in the top left corner
+
+### 3. Click on the **Time** in the menu
+
+### 4. Click on **This Week**
+
+### 5. Click on the time you worked
+
+### 6. Fill in the form with details
+
+### 7. Click on the **Review** button on the bottom right
+
+### 8. Click on the **Submit** button
+
+### Payments
+
+
+## Pay Type |
+## Hourly |
+## Maximum Hours |
+## 20 Hours Per Week (40 hours during official university break) |
+## Hourly Wage |
+## Depending on experience and position, at least the state minimum wage or above |
+
+International students may have different working hours during university breaks. Please refer to the OGS website for On-Campus Employment or contact OGS to confirm the maximum working hours.
+
+### Wages
+
+##### Student employees must be compensated for their work in accordance with the minimum wage laws and pay ranges of their campus location.
+
+##### Massachusetts, U.S.
+
+##### Portland, Maine, U.S.
+
+##### Seattle, Washington, U.S.
+
+##### Oakland, California, U.S.
+
+##### Silicon Valley, California, U.S.
+
+
+### MA Payment of Wages Law
+
+##### The Massachusetts Payment of Wages Law indicates:
+
+-
+##### All hourly employees must be paid at least weekly or biweekly.
+
+-
+##### All employees must be paid within six days of the end of the pay period.
+
+-
+##### If an employee resigns, they must be paid for all hours worked on the next regular payday following the end of employment. If an employee is discharged, they must be paid all wages owed on the day of termination.
+
+
+# Tax Information
+
+### The US tax system follows a “pay as you go” model, meaning that taxes are deducted from each paycheck.
+
+### For students working in the U.S., you will receive the **W-2 Tax Form by January 31st** which summarizes your earnings and the taxes you have paid the prior calendar year (January to December). You may access the W-2 tax document from Workday.
+
+### The **W-4 Form** indicates how much tax will be withheld from your paycheck. You will only be required to complete the form once **after you’ve been hired**, but you can update it anytime you wish on Workday. Completing W-4 on Workday takes the place of the paper form and allows you to make any necessary changes electronically.
+
+##### Learn more about tax forms
+
+## Steps to find W-2 Tax Form
+
+### Go to Workday → Menu → Pay → My Tax Documents → External Tax Documents
+
+## Steps to complete W-4 Tax Form
+
+### 1. Go to Workday
+
+### 2. Click on the **Menu** in the top left corner
+
+### 3. Click on the **Pay** in the menu
+
+### 4. Click on the **Withholding Elections**
+
+### 5. Click on the **Federal Elections** tab
+
+### 6. Click on the **Update** button on the bottom
+
+### 7. Select **Single** as your marital status. (We understand that you may be married, but for tax filing purposes in the US, you are required to select ‘Single’)
+
+### 8. Skip Steps 2 and 3
+
+### 9. Select the **Nonresident Alien** box
+
+### 10. Select the **I Agree** box
+
+# On The Job
+
+## Responsibilities
+
+-
+### Show up on time. If you are going to be late, contact your supervisor to let them know.
+
+-
+### If you need to request time off or a change to your schedule, speak to your supervisor as soon as possible.
+
+-
+### If you need to quit your job, let your supervisor know as soon as possible. You should give your supervisor at least two weeks’ notice before your last day.
+
+-
+### Ask your supervisor to know what work needs to be done. If you have ideas about how to improve a process, share them!
+
+
+# Your Rights
+
+### Student Work Hours
+
+-
+##### Students may not work more than 20 hours per week while classes are in session. During university break periods, students may work up to 40 hours per week. Read more...
+
+-
+##### Student workers may not work during their scheduled class times.
+
+-
+##### Massachusetts state law requires that an unpaid break of at least 30 minutes be taken after six consecutive hours of work.
+
+
+### Pregnancy & Pregnancy-Related Conditions
+
+##### The university recognizes that employees who are pregnant or have a condition related to pregnancy may need a reasonable accommodation to have equally effective opportunities to participate in employment.
+
+##### Read more...
+
+### Reasonable Accommodation
+
+##### Northeastern University (the university) recognizes that individuals may be entitled to reasonable accommodation in respect of a legally protected characteristic to participate in employment.
+
+##### Read more...
+
+
+### Equal Opportunity Employment
+
+##### The university is committed to providing a living, learning, and working environment free of discrimination and harassment. This policy applies to all members of the university community when acting on behalf of the university, whether on or off campus, as well as to contractors, parents, and visitors when they are on university property.
+
+##### Read more...
+
+# Report a Concern
+
+### If you have a concern related to your workplace, you can request to speak with a staff member to discuss your reporting options.
+
+# Frequently Asked Questions
+
+- Workday
+- California Students
+- NU Student Temps
+- Supervisors
+- Jobs & Hiring
+- Documents
+- Pay & Timesheets
+- Work-Study
+
+## How can I apply for jobs?
+
+
+## Why is my application automatically rejected?
+
+
+## When can new students apply for jobs?
+
+
+## How can I view my paystubs?
+
+
+## How can I update my withholdings/tax elections?
+
+
+## Why am I unable to submit my timesheet?
+
+
+## I forgot to clock in/out. What do I do?
+
+
+If you missed your check-in or check-out time, you can correct that mistake by submitting the proper time within 2 hours (120 minutes) of the time you should have submitted the entry. After that window, or after submitting the time, the entry is locked, and you would need to submit a Timesheet Change Request through your manager if you need to make changes.
+
+**Example:** Let's say you leave work at 3:10 p.m. but forget to clock out. You have until 5:10 p.m. (within 2 hours of when you should have checked out) to submit a check-out entry for 3:10 p.m.
+
+Northeastern timekeeping policies require you to clock in and out according to your scheduled time and meal breaks. This added flexibility is intended only to allow you to submit the correct time entry if you have forgotten to clock in or out.
+
+## How can I enhance my resume?
+
+
+## Can I meet with NU Student Temps?
+
+
+## What kinds of jobs does NU Student Temps recruit for?
+
+
+## How do you match students to jobs?
+
+
+## What are the requirements to become part of NU Student Temps?
+
+
+## Can NU Student Temps create more on-campus jobs?
+
+
+## Can I volunteer through NU Student Temps?
+
+
+## What other resources are available for students?
+
+
+## What's the difference between NU Student Temps and general student employment?
+
+
+## How can I apply for jobs?
+
+
+## Why is my application automatically rejected?
+
+
+## When can new students apply for jobs?
+
+
+## I am looking for a job. Can you provide guidance on finding a part-time position at Northeastern?
+
+
+The best way to get a job on campus is to apply to jobs listed on Workday. Please note that our team does not make the hiring decisions for jobs posted on Workday — the hiring manager makes the hiring decisions. Learn more ›
+
+If you have 2+ years of professional experience, you are encouraged to submit your profile for the NU Student Temps program. The NU Student Temps program is a staffing/temping agency on campus that is separate from Workday. Learn more ›
+
+The Office of Global Services (OGS) also has a comprehensive list of potential non-Northeastern, on-campus employers on their website. Learn more ›
+
+For fellowships/GA/TA/RA positions, you should get in touch with the administrative department of the college in which you are enrolled and ask them about potential opportunities. It may also be helpful to reach out directly to any faculty with whom you are interested in doing research. Find your college's contact information ›
+
+## Am I allowed to start working while my I-9 documents are processing?
+
+
+## I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture, or photocopy?
+
+
+## I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?
+
+
+## Can I email a scan of my document for I-9 Section 2 since I won't arrive in Boston until September?
+
+
+## Do I need to wait until I receive my SSN before I can complete Section 2 of the I-9 and begin working?
+
+
+## I am an international student. What is my next step after I receive my SSN card?
+
+
+## How can I view my paystubs?
+
+
+## Why am I unable to submit a timesheet?
+
+
+## I missed the deadline on Monday to submit my time and now I am getting an error that "Time Period is Locked".
+
+
+## Can I keep my part-time job while going on Co-op?
+
+
+## How do I access my W-2?
+
+
+If you are no longer a student employee at Northeastern, you may register with ADP at any point in the year. If you signed up in previous years to receive an electronic W-2, you are all set; your registration carries over. Learn more about registering for ADP ›
+
+For Canadian-based student employees, to access your paycheck and tax forms such as a T4 slip, please register online with ADP Canada TeamPay by following the Employee Self Service instructions. Learn more ›
+
+U.S. International Students: Please find more tax-related information through OGS. Learn more ›
+
+U.S. Domestic Students: Please contact a tax professional, filing service, or consult your parents/guardians to file your taxes.

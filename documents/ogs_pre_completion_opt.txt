@@ -1,0 +1,263 @@
+source_url: https://international.northeastern.edu/ogs/employment/off-campus-employment/f-1-pre-completion-opt/
+retrieved_at: 2026-06-07
+title: F-1 Pre-completion OPT — Northeastern OGS
+source_type: official_university
+capture_method: trafilatura
+---
+
+## Recent USCIS Policy Updates
+
+## What is Pre-Completion OPT?
+
+Optional Practical Training (OPT) is an employment authorization benefit for F-1 students for the purpose of gaining **practical experience directly related to their major field of study**. It is the responsibility of the student to determine if the accepted employment is related to their program of study. Students may engage in Pre-Completion OPT (or Pre-OPT) while actively enrolled in an academic program. To request Pre-OPT work authorization, students must:
+
+- Request an I-20 with a recommendation for Pre-OPT from OGS
+- Submit an application to U.S. Citizenship and Immigration Services (USCIS) for review and adjudication
+
+Students are eligible for a** total of 12-months** of Optional Practical Training (OPT) at each degree level. This means that any time for which a student receives Pre-OPT authorization will be subtracted from the time available for Post-Completion OPT.
+
+**Important Considerations**
+
+- There is a risk that your pre-completion OPT application (pre-OPT) with USCIS may be delayed for a variety of reasons. If you later decide to withdraw your pre-OPT application while it remains pending, you are not eligible for a refund of the USCIS application fee or premium processing fees (if applicable). Students applying for pre-OPT in their final term are strongly advised to carefully consider the risks and issues that may arise if their pre- OPT application processing is delayed close to the time they plan to also apply for post-completion OPT (post-OPT). Although you may apply as early as possible and select specific dates for pre-OPT, processing delays could mean you are ultimately only approved for a very short time of pre-OPT, and then also become delayed in submitting your post-OPT application.
+- OGS generally does not recommend applying for post-OPT with a pending pre-OPT application with USCIS. If you do want to apply for post-OPT prior to pre-OPT being processed, we would recommend you formally request to withdraw your pre-OPT application with USCIS first (see the “Frequently Asked Questions” section on the right. Because we cannot predict the exact processing time of your applications with USCIS, there is a risk that two pending OPT applications could cause significant delays in USCIS correctly processing either OPT application. Additionally, applying for post-OPT before pre-OPT is adjudicated could lead to date errors or other issues with either EAD card, since approved pre-OPT time must be deducted from post-OPT time.
+- Please also be advised that it is not possible to shorten your I-20 program end date once pre-OPT is approved for the final term. You should have your degree completion timeline solidified and confirmed with your Academic Advisor before you apply for pre- OPT in the final term.
+
+## Eligibility
+
+A Bachelor’s or Master’s degree student may be eligible to apply for Pre-OPT prior to completion of studies both during the academic year and during the annual vacation period.
+
+PhD students may be eligible to apply for Pre-OPT any time during the program of study if all course work other than the thesis/dissertation has been completed.
+
+**To apply for Pre-OPT, all of the following criteria must be met:**
+
+- You must be maintaining lawful F-1 student status
+- You have studied as a full-time degree-seeking student in the U.S. for at least 1 academic year at an SEVP authorized school
+- Time spent in language training and non-degree programs does not count toward the one academic year requirement
+
+- You have not exceeded 364 days of full-time Curricular Practical Training (CPT) at the current degree level
+- You have not previously engaged in 12 months of full-time Pre- or Post-OPT at your current degree level
+- You have registered for a full-time course load with appropriate on-ground presence during the entire period of requested Pre-OPT
+- This does not apply if the requested Pre-OPT will take place during the annual vacation period
+
+
+## Full-time vs. Part-time Pre-OPT
+
+A student may be eligible to apply for part-time (less than 20 hours per week) or full-time (more than 20 hours per week) Pre-OPT. Please see below for eligibility requirements for both options:
+
+**Part-Time Pre-OPT** (20 or less hours/week):
+
+- During an academic term
+- During annual vacation and other official school breaks
+
+**Full-Time Pre-OPT** (more than 20 hours/week):
+
+- During annual vacation and other official school breaks
+- For PhD students who have completed all coursework except thesis/dissertation
+- NOTE: full-time pre-OPT is NOT allowed during required academic terms except for certain PhD students as mentioned in the bullet above
+
+## Special Considerations for PhD students
+
+If a PhD student has completed all coursework but is in the final stages of thesis/dissertation, immigration regulations allow the student to apply for either Pre-Completion OPT or Post-Completion OPT while completing the thesis/dissertation.
+
+In this case, the PhD student and his/her college need to determine the program completion date, which will be reflected on the I-20.
+
+If you choose to apply for Post-Completion OPT while completing your thesis/dissertation:
+
+- You must fulfill the reporting requirements of Post-OPT
+- The days you do not have a job count towards your 90 days of unemployment time
+- You cannot request a program extension even if your thesis/dissertation is not completed after Post-OPT is expired
+
+**Note**: If you are a student with Stipended Graduate Assistantship (SGA), you must discuss with your department to determine when your SGA will end. The SGA cannot extend beyond the end date as listed on your I-20.
+
+## OGS and USCIS Application Process
+
+### (For more information, click each step below)
+
+Students can apply for their Pre-OPT I-20 up to 100 days prior to their requested Pre-OPT start date and should submit their application to USCIS no more than 90 days prior to their requested start date.
+
+Submit the Pre-Completion OPT Application e-form to OGS.
+
+You must upload the following documents to the e-form:
+
+- Copy of passport identity page
+- Copy of Electronic I-94
+- Verification for Pre-Completion OPT Application
+- Copy of previous EAD cards, if applicable
+
+**OGS requires up to 15 business days to process a request for Pre-OPT recommendation.**
+
+**Do not submit your application to USCIS before receiving the Pre-OPT Recommendation on your I-20 from OGS!**
+
+**Applying Online (Recommended):**
+
+You may create an account with USCIS and file the Form I-765 online. Follow the instructions to *File a form online*, then S*elect the form you want to file online* (I-765, Application for Employment Authorization). You **do not** need to upload a PDF version of the Form I-765. Follow the online instructions to prepare to submit the following documents:
+
+- Copy of Form I-20 with Pre-OPT recommendation on page two
+- Click here for a sample OPT recommendation on a Form I-20
+**Do not submit the Form I-765 without the I-20 with OPT recommendation. This will result in the denial of your application**
+
+- Copies of all previous I-20s for the current degree level (may be optional)
+- Copy of passport identity page — include all correction and extension pages
+- Copy of most current F-1 student visa stamp or change of status approval notice
+- Copy of most recent electronic I-94 printout or copy of I-94 card (front and back)
+- Copy of previous Employment Authorization Document (front and back) – if applicable
+- Two passport photos with white background (photos MUST be less than 30 days old and glasses should not be worn in photo)
+- $470 OPT application fee (Payment may be made via a credit card, debit card, or bank transfer. If a credit card is used, it must be issued by a U.S. bank)
+
+**Applying by Mail: **
+
+Submit the documents listed below to USCIS
+
+- Original paper Form I-765 – please refer to OGS’s supplemental I-765 guide for assistance
+- Original G-1145
+- Copy of new I-20 with Pre-OPT recommendation on page 2
+- Click here for a sample OPT recommendation on a Form I-20
+**Do not submit the Form I-765 without the I-20 with OPT recommendation. This will result in the denial of your application**
+
+- Copies of all previous I-20s for the current degree level
+- Copy of passport identity page — include all correction and extension pages
+- Copy of most current F-1 student visa stamp or change of status approval notice
+- Copy of most recent electronic I-94 printout or copy of I-94 card (front and back)
+- Copy of previous Employment Authorization Document (front and back) – if applicable
+- Two passport photos with white background (lightly write your name and SEVIS ID number with a pencil on the back of each photo; photos MUST be less than 30 days old and glasses should not be worn in photo)
+- $520 check, money order or bank check made payable to the U.S. Department of Homeland Security
+
+**Guidance for Mailing an Application to USCIS**
+
+Once you have assembled your Pre-OPT I-20 and all other required documents into a packet, you must send it to the USCIS address below. However, it is always best practice to confirm the most up to date USCIS Direct Filing Addresses for Form I-765 directly on the USCIS website. It is recommended you mail your OPT packet through certified mail which includes a tracking number and guaranteed delivery date.
+
+**Effective 01/08/2021, you will mail your application to the USCIS Chicago lockbox:**
+
+For U.S. Postal Service deliveries:
+
+Attn: I-765 C03
+
+P.O. Box 805373
+
+Chicago, IL 60680-5374
+
+
+For courier service deliveries (non-U.S. Postal Service: FedEx, UPS, and DHL):
+
+USCIS
+
+Attn: I-765 C03 (Box 805373)
+
+131 South Dearborn – 3rd Floor
+
+Chicago, IL 60603-5517
+
+
+#### eShipGlobal Mailing Option
+
+eShipGlobal offers a shipping service for international students sending their OPT applications to USCIS. Students can choose their carrier (UPS, FedEx, or USPS) and type of delivery (next day, 2-day, etc.) and ship at discounted rates. This service is not a Northeastern University service. All inquiries should be directed to eShipGlobal directly.
+
+**USCIS Processing Times**
+
+- USCIS advertises normal processing time for OPT requests as being around 100 days.
+- You can check current processing times on USCIS’s website
+
+After the documentation leaves the respective Lockbox, it is forwarded to the USCIS Service Center. About fifteen days after USCIS receives your application for Pre-OPT, you should receive a receipt notice (Form I-797) from USCIS.
+
+In 2023, USCIS introduced the availability of Premium Processing for F-1 students submitting the Form I-765, Application for Employment Authorization. As of August 2024, the fee for Premium Processing for the I-765 is $1,685. Starting on March 1, 2026, the fee for Premium Processing will be $1,780.
+
+The fee guarantees the USCIS will take adjudicative action (approval, denial, request for evidence, notice of intent to deny) on the case within 30 business days.
+
+Premium Processing can be requested using the **Form I-907.** Students may request Premium Processing during their initial submission of the Form I-765 or may upgrade their request by applying for Premium Processing while their application is pending with USCIS.
+
+**Notes from OGS**
+
+- Requests for premium processing must be made directly to USCIS. OGS is unable to assist students with the application process
+- Applying for premium processing with USCIS will not impact OGS processing time
+- OGS recognizes that not all students will have the means to request premium processing from USCIS due to its high cost. We recognize the disparity that this may cause and encourage students to submit their applications as early as possible to ensure timely adjudication by USCIS
+
+- Check your mail regularly and/or your USCIS online account for a Request for Evidence (RFE) and/or a biometrics appointment notification (e.g. ASC Appointment Notice)
+- If you receive an RFE or ASC Appointment Notice, please submit the USCIS Case Evidence Request e-form
+- If you receive an ASC Appointment Notice, follow all instructions on the notice and attend the biometrics appointment
+
+Learn more about USCIS’ policy on Biometrics Appointments here.
+
+U.S. Citizenship and Immigration Services (USCIS) may review publicly available social media content in connection with certain applications. This may include applications submitted by F-1 students for benefits such as OPT, STEM OPT Extension or change of status. These reviews are intended to support eligibility verification and national security screening. For more, visit USCIS.gov.
+
+Within their review, USCIS will also consider if the applicant has demonstrated “Anti-American” or “Antisemitic” activity. You can review OGS’ USCIS Policy Changes page for more information.
+
+## After You Submit to USCIS
+
+**Receipt Notice (Form I-797)**
+
+You should receive your I-797 Receipt Notice soon after submitting your application to USCIS:
+
+- Online filing: typically within 1–2 days
+- Mail filing: typically within 2 weeks
+
+**Tracking Your Application**
+
+Once USCIS receives your application, you can monitor your case in several ways:
+
+**Online:**Use your receipt notice number on the USCIS website**By phone:**Call USCIS at 800-375-5283- If you submitted the Form G-1145, you’ll receive email and/or text updates
+
+**Processing Times**
+
+Check current OPT/STEM OPT processing times on the USCIS website using these filters: Form **I-765** → Category **“Based on a request by a qualified F-1 academic student [(c)(3)]”** → Service Center **“Potomac Service Center.”**
+
+**A note on timelines:** Processing typically takes several months. Your application will show as “pending” until a decision is made – this is normal. OGS cannot expedite applications, but we’re here to help if USCIS contacts you with a request for additional information or other communication requiring a response (see guidance below it “Application Outcomes”).
+
+If you didn’t initially apply for premium processing, you are able to request premium processing while your Form I-765 is Pending with USCIS. You can learn more about Premium Processing on the USCIS website.
+
+## Application Outcomes
+
+Congratulations!
+
+- Once USCIS adjudicates your application and your Pre-OPT is approved, expect to
+*first*receive an approval notice and*then*an Employment Authorization Document (EAD) - You
+**must not work**until you receive your EAD card and you may only work within the dates specified on the EAD card - The EAD card, not your approval notice, is your work authorization documentation
+- If you do not already have a Social Security Number (SSN), you may apply for a SSN in person at a local SSA after receiving your OPT EAD.
+
+**RFEs and NOIDs**
+
+If USCIS determines that something in your application requires clarification or may lead to denial, they may send you a Request for Evidence (RFE) or a Notice of Intent to Deny (NOID). If you receive an RFE or NOID, you are required to respond by the deadline listed on the notification. **Before you respond, you should submit a copy of the RFE/NOID to OGS via the USCIS Case Evidence Request e-form** so that OGS can review the notice and determine whether we can provide guidance or additional documentation to include in your response to USCIS.
+
+Once you have submitted the e-form, OGS will review your documentation and inform you of next steps. If it is determined that no evidence is needed from OGS or from your former academic department, you will receive an email with suggestions about who can provide the requested evidence. If it is determined you need documentation from OGS or your academic department, you will receive an email stating what additional documentation will be provided.
+
+**NOIRs**
+
+If USCIS determines that a previously approved immigration benefit may need to be revoked, they will issue a Notice of Intent to Revoke (NOIR). Unlike an RFE or NOID, a NOIR is issued after your USCIS benefit has already been approved. If you receive a NOIR, you are required to respond by the deadline listed on the notification. **Before you respond, you should submit a copy of the NOIR to OGS via the USCIS Case Evidence Request e-form** so that OGS can review the notice and determine whether we can provide guidance or additional documentation to include in your response to USCIS.
+
+Once you have submitted the e-form, OGS will review your documentation and inform you of next steps, following the same process as outlined above for RFEs and NOIDs.
+
+**RFE/NOID/NOIR Review Process**
+
+All document requests from USCIS are unique, therefore, all supporting letters and documents are drafted based on the specific request. Processing times for RFEs vary based on:
+
+- The complexity of the request and the number of required supporting documents
+- The production of any relevant documents that are requested by USCIS
+- The due date of the request
+
+Please email the DSO who issued you the Pre-OPT I-20 with the denial notice. They will provide you with guidance on next steps.
+
+## Unemployment During Pre-OPT
+
+There are no restrictions on unemployment during Pre-OPT.
+
+Students are not required to have a job offer to apply for Pre-Completion OPT; however, it is advantageous to have prospective employment opportunities since any time authorized for Pre-OPT is subtracted from the time available for Post-OPT, whether the student obtains employment or not.
+
+## Important Reminders
+
+- USCIS must receive the Pre-OPT application within 30 days of the issued OPT recommendation by OGS; if the application is not received by USCIS within 30 days after the issuance of the OPT I-20, the application will be denied (
+**t****his is the most common reason for the denial of Pre-OPT**) - If your entire application is returned to you, consult with an OGS Advisor before resubmitting the application; your application may not be considered “received” and you may need a new I-20 with OPT recommendation
+- Do not submit a Pre-OPT application to USCIS prior to obtaining an I-20 with the OPT recommendation
+- Make sure that the address on your OPT application is valid for receiving mail at all times during OPT processing
+- If you have a pending Pre-OPT application and are simultaneously applying for Post-OPT, OGS will not issue a Post-Completion OPT Recommendation I-20 until:
+- Your Pre-Completion OPT application has been approved by USCIS and you have received your EAD, or
+- OGS receives confirmation that your application has been withdrawn by USCIS (or was never submitted to USCIS).
+
+
+## Travel While on Pre-OPT
+
+During Pre-OPT, travel restrictions remain the same as they are during normal F-1 study. You should carry the following documents when re-entering the U.S.:
+
+- A passport which should be valid for at least six months from the date you return to the U.S.
+- Unexpired F-1 visa
+- I-20 with a valid travel signature (travel signatures are valid for 1 year)
+
+You can review more information about traveling internationally here.

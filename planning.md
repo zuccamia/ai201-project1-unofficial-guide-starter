@@ -34,12 +34,11 @@ My unofficial guide focuses on maintaining F-1 visa status and pursuing internsh
 | 8 | Northeastern University Office of Global Services | Program Extensions | https://international.northeastern.edu/ogs/current-students/understanding-visa-requirements/program-extention/ |
 | 9 | Northeastern University Office of Global Services | Final Term | https://international.northeastern.edu/ogs/current-students/understanding-visa-requirements/final-term/ |
 | 10 | Northeastern University Office of Global Services | Reduced Course Load | https://international.northeastern.edu/ogs/current-students/understanding-visa-requirements/reduced-course-load/ |
-| 11 | Interstride | Your STEM OPT has expired. What now> (2026 update) | https://www.interstride.com/blog/your-stem-opt-visa-has-expired-what-now/ |
-| 12 | Northeastern University Office of Global Services | Co-op vs. Internship: What's the difference? | https://graduate.northeastern.edu/knowledge-hub/coop-vs-internship/ |
-| 13 | Northeastern University Office of Global Services | Khoury College of Computer Sciences - Silicon Valley - Career Development & Experiential Learning FAQ's | ./documents/khoury_sv_coop_faq.txt |
-| 14 | Reddit | DSO AMA - Part 1 | ./documents/reddit_dso_ama_part1.txt |
-| 15 | Reddit | DSO AMA - Part 2 | ./documents/reddit_dso_ama_part2.txt |
-| 16 | Reddit | STEM-OPT Awareness | ./documents/reddit_stem_opt_i983_awareness.txt |
+| 11 | Northeastern University Office of Global Services | Co-op vs. Internship: What's the difference? | https://graduate.northeastern.edu/knowledge-hub/coop-vs-internship/ |
+| 12 | Northeastern University Office of Global Services | Khoury College of Computer Sciences - Silicon Valley - Career Development & Experiential Learning FAQ's | ./documents/khoury_sv_coop_faq.txt |
+| 13 | Reddit | DSO AMA - Part 1 | ./documents/reddit_dso_ama_part1.txt |
+| 14 | Reddit | DSO AMA - Part 2 | ./documents/reddit_dso_ama_part2.txt |
+| 15 | Reddit | STEM-OPT Awareness | ./documents/reddit_stem_opt_i983_awareness.txt |
 
 ---
 

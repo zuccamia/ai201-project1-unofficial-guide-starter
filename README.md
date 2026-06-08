@@ -36,12 +36,11 @@ My unofficial guide focuses on maintaining F-1 visa status and pursuing internsh
 | 8 | Northeastern University Office of Global Services — Program Extensions | official_university | https://international.northeastern.edu/ogs/current-students/understanding-visa-requirements/program-extention/ |
 | 9 | Northeastern University Office of Global Services — Final Term | official_university | https://international.northeastern.edu/ogs/current-students/understanding-visa-requirements/final-term/ |
 | 10 | Northeastern University Office of Global Services — Reduced Course Load | official_university | https://international.northeastern.edu/ogs/current-students/understanding-visa-requirements/reduced-course-load/ |
-| 11 | Interstride — Your STEM OPT has expired. What now? (2026 update) | | https://www.interstride.com/blog/your-stem-opt-visa-has-expired-what-now/ |
-| 12 | Northeastern University Office of Global Services — Co-op vs. Internship: What's the difference? | official_university | https://graduate.northeastern.edu/knowledge-hub/coop-vs-internship/ |
-| 13 | Northeastern University Office of Global Services — Khoury College of Computer Sciences - Silicon Valley - Career Development & Experiential Learning FAQ's | official_university | ./documents/khoury_sv_coop_faq.txt |
-| 14 | Reddit — DSO AMA - Part 1 | reddit | ./documents/reddit_dso_ama_part1.txt |
-| 15 | Reddit — DSO AMA - Part 2 | reddit | ./documents/reddit_dso_ama_part2.txt |
-| 16 | Reddit — STEM-OPT Awareness | reddit | ./documents/reddit_stem_opt_i983_awareness.txt |
+| 11 | Northeastern University Office of Global Services — Co-op vs. Internship: What's the difference? | official_university | https://graduate.northeastern.edu/knowledge-hub/coop-vs-internship/ |
+| 12 | Northeastern University Office of Global Services — Khoury College of Computer Sciences - Silicon Valley - Career Development & Experiential Learning FAQ's | official_university | ./documents/khoury_sv_coop_faq.txt |
+| 13 | Reddit — DSO AMA - Part 1 | reddit | ./documents/reddit_dso_ama_part1.txt |
+| 14 | Reddit — DSO AMA - Part 2 | reddit | ./documents/reddit_dso_ama_part2.txt |
+| 15 | Reddit — STEM-OPT Awareness | reddit | ./documents/reddit_stem_opt_i983_awareness.txt |
 
 ---
 
@@ -66,7 +65,108 @@ Every chunk also carries a provenance breadcrumb (source_type · source_tier · 
 The corpus is two structures at once — the online articles behave like a long guide (prose flowing across sentences, so larger chunks + overlap), the threads like a review-heavy set (discrete atomic units, so natural-boundary cuts + no overlap) — which is why a single uniform splitter might undercut both resources.
 Accepted tradeoffs: two code paths instead of one, and variable chunk sizes, both worth it for clean retrieval units. We also accept near-duplicate travel/fee Q&As as separate chunks (handled downstream via retrieval diversity rather than by merging, to preserve question–answer integrity), and a few extra tokens per chunk for the breadcrumb — the payoff for tier-aware ranking and citation.
 
-**Final chunk count:**
+**Final chunk count:** 156 chunks across 15 documents (Northeastern OGS articles, the Khoury Silicon Valley co-op FAQ, and three Reddit threads). Per-document counts: 3 (`ogs_program_extension`, `ogs_reduced_course_load`) – 25 (`reddit_dso_ama_part1`).
+
+**Representative chunks:**
+
+```
+--- chunk #0  (421 tok · official_university · authoritative · khoury_sv_coop_faq.txt) ---
+[official_university · authoritative · 2026-06-06 · Co-op Information — Khoury College (Silicon Valley Campus)]
+
+# Co-op Information — Khoury College (Silicon Valley Campus)
+
+## Co-op Durations
+
+Students from Khoury College of Computer Sciences may go on 4-, 6-, or 8-month co-ops, provided they meet all eligibility requirements below. The number of working days permitted depends on the co-op length.
+
+Minimum working days:
+- 4 months: 55 business days, falling within either the Fall, Spring, or Summer term
+- 6 months: 55 business days during Fall/Spring and 25 business days in Summer 1/2
+- 8 months: 55 business days during Fall/Spring and full Summer
+
+Term combinations:
+- 4 months: Fall semester only, Spring semester only, or full Summer only
+- 6 months: Spring semester & Summer A term, or Summer B term & Fall semester
+- 8 months: Spring semester and full Summer, or full Summer and Fall semester
+
+Students are not permitted to go out on back-to-back co-ops between the Fall and Spring sem…
+```
+
+```
+--- chunk #39  (381 tok · official_university · authoritative · ogs_international_travel.txt) ---
+[official_university · authoritative · 2026-06-07 · International Travel — Northeastern OGS]
+
+**Office of Global Services – Available Monday – Friday, 8:30am – 4:30pm EST**
+
+Most importantly, ensure that you cooperate with the officer as much as possible so as not to create further difficulties. More information on Secondary Inspection can be found here.
+
+When entering the U.S., Customs and Border Protection (CBP) officers have the authority to inspect travelers' electronic devices such as phones, tablets, and laptops. These inspections may include viewing content stored on the device, including social media apps and messages. CBP may conduct searches without a warrant, and refusal to comply may affect your ability to enter the U.S. For details, see CBP's policy on electronic device searches. You may also review the following resource from AILA: "Electronic Device Searches at U.S. Ports of Entry": What You Need to Know".
+
+If you are missing documentation or your status is unable to be …
+```
+
+```
+--- chunk #78  (399 tok · official_university · authoritative · ogs_post_completion_opt.txt) ---
+[official_university · authoritative · 2026-06-07 · Applying for F-1 Post-completion OPT — Northeastern OGS]
+
+- Payment Options:
+- Copy of your Northeastern transcript (optional)
+
+**Guidance for Mailing an Application to USCIS**
+
+We strongly recommend that you make copies of your complete application for your records before mailing your application to USCIS.
+
+Once you have your documents and I-20 for Post-Completion OPT and you have copied all documentation and assembled the packet, you must send it to the USCIS address below. However its always best practice to confirm the most up-to-date USCIS Direct Filing Addresses for Form I-765 directly on the USCIS website. It is recommended you mail your OPT packet through certified mail which includes a tracking number and guaranteed delivery date.
+
+**Effective 01/08/2021, you will mail your application to the USCIS Chicago lockbox:**
+
+For U.S. Postal Service deliveries:
+
+Attn: I-765 C03
+
+P.O. Box 805373
+
+Chicago, IL 60680-5374
+
+
+For courier s…
+```
+
+```
+--- chunk #117  (448 tok · reddit · advisory · reddit_dso_ama_part1.txt) ---
+[reddit · advisory · 2026-06-06 · I'm an International Student Advisor/DSO. Ask me your questions!]
+
+## OPT / STEM OPT / green-card interaction
+
+[user] I have an approved I-140, applied for OPT, no job yet, no EAD card. Travel rules?
+[DSO] Wait to travel until OPT is approved and you have the EAD card. Get a job to show you're working and in good standing. As long as you haven't filed your I-485, you're good.
+
+[user] Can I apply for the Green Card lottery while on F-1 without affecting OPT eligibility after I graduate next year?
+[DSO] It shouldn't affect your OPT. You're encouraged to maintain your underlying status (F-1 → OPT) while the application is pending.
+
+[user] F-1 student doing AOS — will my F-1 status end if I use an AOS EAD card?
+[DSO] Yes. I'd recommend keeping your underlying F-1 status until you're approved.
+
+[user] Can I do OPT after F-1 without a job offer? If yes, how?
+[DSO | 2] Yes — a job offer isn't required to submit the OPT application. Once approved, you must hav…
+```
+
+```
+--- chunk #155  (315 tok · reddit · peer · reddit_stem_opt_i983_awareness.txt) ---
+[reddit · peer · 2026-06-06 · For Awareness on STEM OPT extension! (state employers dropping Form I-983)]
+
+## Practical takeaways surfaced in the thread (peer advice)
+
+[OP] First confirm STEM OPT eligibility with your university DSO, then ask HR before doing an in-person interview, since interviews cost a lot of effort, money, and time. Also consider calling/emailing HR before even applying.
+  [user] You should know eligibility before picking a major — USCIS publishes a list of STEM CIP codes you can check against the code next to your major on your I-20.
+
+[user] The OPT extension timeline is getting worse each year, so network now while you're still on F-1 status — that matters more than the actual job posting. [peer opinion]
+
+## On STEM OPT and "immigrant intent"
+
+[user] How does using STEM OPT after F-1 work? F-1 is a non-immigrant visa with intent to return home after studies.
+  [OP] STEM OPT is part of the F-1 framework and is not an immigrant visa. Eligibility is based on complet…
+```
 
 ---
 
