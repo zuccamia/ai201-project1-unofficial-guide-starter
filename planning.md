@@ -313,7 +313,7 @@ I'll give Claude my Embedding and Retrieval Strategy markdown file and ask it to
 I'll give Claude my Generation and Interface markdown file and ask it to implement in a generate.py file (LLM call) and an app.py file (Gradio UI):
 
 - generate(query, n_results=N_RESULTS) — orchestrates retrieve() → prompt assembly → Groq LLM → return {answer, citations, chunks}
-- System prompt enforces strict grounding (no outside knowledge); citations are relevance-ordered (lower id = higher relevance) with a tie-break for specificity; advisory/peer-tier claims are attributed in prose so the reader can weigh standing
+- System prompt enforces strict grounding (no outside knowledge) and tier-aware ranking — anchor on the most authoritative tier present, with retrieval relevance acting only as a within-tier tiebreaker; advisory/peer-tier claims are attributed in prose so the reader can weigh standing, and contested advisory claims surface the disagreement rather than being presented as settled
 - DISTANCE_THRESHOLD = 1.0 — chunks with Chroma cosine distance above this are dropped from the LLM context as noise; if all top-k fall above, generate returns FALLBACK_NO_MATCH without invoking the LLM
 - LLM: llama-3.3-70b-versatile via Groq
 - Interface: Gradio single-screen Q&A — input box, answer, expandable retrieved-chunks panel
