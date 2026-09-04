@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import gradio as gr
+import os
 
 from generate import DISTANCE_THRESHOLD, MODEL, generate
 
@@ -78,4 +79,4 @@ with gr.Blocks(title="The Unofficial Guide") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
