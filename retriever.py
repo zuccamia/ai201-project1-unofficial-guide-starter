@@ -24,6 +24,8 @@ from rank_bm25 import BM25Okapi
 ROOT = Path(__file__).parent
 CHROMA_PATH = ROOT / "chroma_db"
 COLLECTION_NAME = "unofficial_guide"
+# Prefetched at build time so the first query doesn't pay a download.
+FASTEMBED_CACHE = ROOT / "fastembed_cache"
 
 # ONNX build of all-MiniLM-L6-v2 — same 384-dim vectors as the
 # sentence-transformers PyTorch model, but no torch dependency (fits 512MB RSS).
@@ -36,8 +38,8 @@ POOL_SIZE = 5  # how many to pull from each ranker before fusing — small pool
 
 
 class _FastEmbedFunction(EmbeddingFunction):
-    def __init__(self, model_name: str):
-        self._model = TextEmbedding(model_name=model_name)
+    def __init__(self, model_name: str, cache_dir: str | None = None):
+        self._model = TextEmbedding(model_name=model_name, cache_dir=cache_dir)
 
     def __call__(self, input: Documents) -> Embeddings:
         return [vec.tolist() for vec in self._model.embed(list(input))]
@@ -49,7 +51,8 @@ _EMBED_FN: _FastEmbedFunction | None = None
 def _embedding_function():
     global _EMBED_FN
     if _EMBED_FN is None:
-        _EMBED_FN = _FastEmbedFunction(EMBEDDING_MODEL)
+        cache_dir = str(FASTEMBED_CACHE) if FASTEMBED_CACHE.exists() else None
+        _EMBED_FN = _FastEmbedFunction(EMBEDDING_MODEL, cache_dir=cache_dir)
     return _EMBED_FN
 
 
