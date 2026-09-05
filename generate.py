@@ -73,6 +73,12 @@ def generate(query: str, n_results: int = N_RESULTS) -> dict[str, Any]:
     model:     str — which Groq model produced the answer (None if fallback).
     """
     raw = retrieve(query, n_results=n_results)
+    return generate_from_chunks(query, raw)
+
+
+def generate_from_chunks(query: str, raw: list[dict]) -> dict[str, Any]:
+    """LLM-call half of the RAG loop — takes pre-retrieved chunks so callers
+    can stage retrieval and generation separately (e.g. for UI progress)."""
     kept = [
         c
         for c in raw

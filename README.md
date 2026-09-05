@@ -1,5 +1,7 @@
 # The Unofficial Guide — Project 1
 
+**Live demo:** https://ai201-project1-unofficial-guide-starter-nj97.onrender.com/ (first load may take ~30 seconds while the server wakes up)
+
 ---
 
 ## Domain

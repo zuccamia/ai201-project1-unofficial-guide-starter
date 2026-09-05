@@ -7,10 +7,14 @@
 """
 from __future__ import annotations
 
-import gradio as gr
 import os
+import time
+from datetime import datetime
 
-from generate import DISTANCE_THRESHOLD, MODEL, generate
+import gradio as gr
+
+from generate import DISTANCE_THRESHOLD, MODEL, generate_from_chunks
+from retriever import retrieve
 
 EXAMPLE_QUESTIONS = [
     "What documents should I carry when traveling on OPT?",
@@ -48,18 +52,55 @@ def _format_chunks(chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
+def _log_line(msg: str) -> str:
+    return f"`{datetime.now().strftime('%H:%M:%S')}` {msg}"
+
+
 def ask(query: str):
     if not query or not query.strip():
-        return "Enter a question.", "", ""
-    result = generate(query.strip())
-    return result["answer"], _format_citations(result["citations"]), _format_chunks(result["chunks"])
+        yield "Enter a question.", "", "", ""
+        return
+
+    q = query.strip()
+    log: list[str] = [_log_line(f"▶ Received query: _{q}_")]
+    yield "", "", "", "\n\n".join(log)
+
+    t0 = time.perf_counter()
+    log.append(_log_line("🔍 Retrieving relevant chunks (dense + BM25 with RRF)…"))
+    yield "", "", "", "\n\n".join(log)
+
+    raw = retrieve(q)
+    kept_count = sum(
+        1 for c in raw
+        if c.get("distance") is None or c["distance"] <= DISTANCE_THRESHOLD
+    )
+    dt_r = time.perf_counter() - t0
+    log.append(_log_line(
+        f"✓ Retrieved {len(raw)} chunks in {dt_r:.2f}s · {kept_count} above the distance threshold"
+    ))
+    log.append(_log_line(f"✍️ Generating answer with `{MODEL}` via Groq…"))
+    yield "", "", "", "\n\n".join(log)
+
+    t1 = time.perf_counter()
+    result = generate_from_chunks(q, raw)
+    dt_g = time.perf_counter() - t1
+    log.append(_log_line(
+        f"✓ Answer generated in {dt_g:.2f}s · {len(result['citations'])} citations · total {dt_r + dt_g:.2f}s"
+    ))
+    yield (
+        result["answer"],
+        _format_citations(result["citations"]),
+        _format_chunks(result["chunks"]),
+        "\n\n".join(log),
+    )
 
 
 with gr.Blocks(title="The Unofficial Guide") as demo:
     gr.Markdown(
         "# The Unofficial Guide\n"
         "F-1 visa, OPT/CPT/STEM-OPT, and internships for international students at Northeastern. "
-        f"Grounded in a small curated corpus; LLM = `{MODEL}` via Groq."
+        f"Grounded in a small curated corpus; LLM = `{MODEL}` via Groq.\n\n"
+        "> ⏳ **Note:** First load may take ~30 seconds while the server wakes up (free-tier hosting)."
     )
     with gr.Row():
         query = gr.Textbox(
@@ -69,13 +110,15 @@ with gr.Blocks(title="The Unofficial Guide") as demo:
         )
     submit = gr.Button("Ask", variant="primary")
     answer = gr.Markdown(label="Answer")
+    with gr.Accordion("Run log", open=True):
+        log = gr.Markdown()
     with gr.Accordion("Sources sent to the model", open=False):
         cites = gr.Markdown()
     with gr.Accordion("Raw retrieved chunks (pre-threshold)", open=False):
         raw = gr.Markdown()
     gr.Examples(examples=EXAMPLE_QUESTIONS, inputs=query)
-    submit.click(ask, inputs=query, outputs=[answer, cites, raw])
-    query.submit(ask, inputs=query, outputs=[answer, cites, raw])
+    submit.click(ask, inputs=query, outputs=[answer, cites, raw, log], show_progress="full")
+    query.submit(ask, inputs=query, outputs=[answer, cites, raw, log], show_progress="full")
 
 
 if __name__ == "__main__":
