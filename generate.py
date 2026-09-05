@@ -5,6 +5,7 @@ returns {answer, citations, chunks}. Chunks above DISTANCE_THRESHOLD are
 dropped from the LLM context; if nothing survives, the fallback string
 is returned without invoking the LLM.
 """
+
 from __future__ import annotations
 
 import os
@@ -14,11 +15,11 @@ from typing import Any
 from dotenv import load_dotenv
 from groq import Groq
 
-from retriever import retrieve, N_RESULTS
+from retriever import N_RESULTS, retrieve
 
 load_dotenv()
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "openai/gpt-oss-120b"
 
 # ChromaDB cosine distance: 0 = identical, 2 = opposite. Above ~1.0 the chunk
 # shares little semantic overlap with the query and tends to add noise.
@@ -60,25 +61,21 @@ def _format_chunk(idx: int, chunk: dict) -> str:
 
 def _build_user_message(query: str, chunks: list[dict]) -> str:
     blocks = "\n\n---\n\n".join(_format_chunk(i + 1, c) for i, c in enumerate(chunks))
-    return (
-        "<sources>\n"
-        f"{blocks}\n"
-        "</sources>\n\n"
-        f"Question: {query}"
-    )
+    return f"<sources>\n{blocks}\n</sources>\n\nQuestion: {query}"
 
 
 def generate(query: str, n_results: int = N_RESULTS) -> dict[str, Any]:
     """Run the full RAG loop. Returns:
-        answer:    str — the LLM's grounded reply (or FALLBACK_NO_MATCH).
-        citations: list of {id, doc, title, url, tier, distance} — only the
-                   chunks actually sent to the LLM, in the order the model saw.
-        chunks:    list — the raw retrieve() output before threshold filtering.
-        model:     str — which Groq model produced the answer (None if fallback).
+    answer:    str — the LLM's grounded reply (or FALLBACK_NO_MATCH).
+    citations: list of {id, doc, title, url, tier, distance} — only the
+               chunks actually sent to the LLM, in the order the model saw.
+    chunks:    list — the raw retrieve() output before threshold filtering.
+    model:     str — which Groq model produced the answer (None if fallback).
     """
     raw = retrieve(query, n_results=n_results)
     kept = [
-        c for c in raw
+        c
+        for c in raw
         if c.get("distance") is None or c["distance"] <= DISTANCE_THRESHOLD
     ]
 
